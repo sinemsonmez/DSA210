@@ -1,20 +1,8 @@
-# Screen Time vs. Productivity
+# Sleep time vs. Productivity
 
-## 📖 Overview
-This project analyzes the relationship between screen time and productivity by tracking my screen usage on my phone, tablet, and laptop during workdays and school days. Understanding how my digital habits affect my productivity is the aim.
+I am Sinem Sönmez (30854). My project involves sleep time and screen usage data. I tried to find correlation between sleep time data and screen usage data. 
 
-## 🌟 Motivation
-I want to investigate how screen time impacts my capacity to remain productive throughout work and school hours, as social media and digital distractions are taking our limited attention.
+- [Codes are related to my project](https://github.com/sinemsonmez/DSA210/blob/main/DSA210_Project_30854.ipynb)
+- [The presentation of this project](https://github.com/sinemsonmez/DSA210/blob/main/DSA210_Slides.pdf)
+- I will not share my datasets needed information can be found in slides.
 
-## 📊 Data Source
-I used [this tool](https://felixkohlhas.com/projects/screentime/) to gather my screen time data. To evaluate its effect on productivity, the data is grouped according to the type of activity.
-
-## 🛠️ Project Plan
-1. **Data Collection**: Record screen time data for each device over 1 month.
-2. **Analysis**: Examine the correlation between screen time and productivity according to work load and school load.
-3. **Visualization**: Use charts to illustrate findings.
-4. **Conclusion**: Reflect on patterns and propose strategies to enhance productivity.
-
----
-
-This repository includes my dataset, scraping scripts. In the next steps, I will upload analyze scripts and reports as well.
